@@ -49,9 +49,9 @@ Reading input images
 # r'images\cat.png'
 # or:
 # 'images\\cat.png'
-image1_BGR = cv2.imread('Section1/images/cat.png')
-image2_BGR = cv2.imread('Section1/images/horse.jpg')
-image3_BGR = cv2.imread('Section1/images/tiger.bmp')
+image1_BGR = cv2.imread('images/cat.png')
+image2_BGR = cv2.imread('images/horse.jpg')
+image3_BGR = cv2.imread('images/tiger.bmp')
 
 
 # Check point
@@ -472,7 +472,7 @@ plt.subplots_adjust(left=0.1, right=0.9,
 # r'images\plot_convolution.png'
 # or:
 # 'images\\plot_convolution.png'
-figure.savefig('Section1/images/plot_convolution.png')
+figure.savefig('images/plot_convolution.png')
 
 # Giving name to the window with figure
 #figure.canvas.set_window_title('Images with detected edges')
