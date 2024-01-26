@@ -47,7 +47,7 @@ Setting up full paths
 # or:
 # 'C:\\Users\\your_name\\PycharmProjects\\CNNCourse\\Section2'
 full_path_to_codes = \
-    '/home/valentyn/PycharmProjects/CNNCourse/Section2'
+    'C:\\Users\\anaso\\OneDrive - Instituto Superior de Engenharia de Lisboa\\CNNCourse\\Section2'
 
 
 # Full or absolute path to the directory with downloaded images
@@ -56,7 +56,7 @@ full_path_to_codes = \
 # or:
 # 'C:\\Users\\your_name\\Downloads\\toolkit\\OID\\Dataset\\train\\downloaded_dataset'
 full_path_to_images = \
-    '/home/valentyn/Downloads/toolkit/OID/Dataset/train/downloaded_dataset'
+    'C:\\Users\\anaso\\OneDrive - Instituto Superior de Engenharia de Lisboa\\CNNCourse\\toolkit\\OID\\Dataset\\train\\downloaded_dataset'
 
 """
 End of:
