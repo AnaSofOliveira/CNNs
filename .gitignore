@@ -165,3 +165,6 @@ Section2/cifar10/
 
 # HDF5files
 *.hdf5
+
+# PPM Files
+*.ppm
