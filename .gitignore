@@ -168,3 +168,6 @@ Section2/cifar10/
 
 # PPM Files
 *.ppm
+
+# CSV Files
+*.csv
