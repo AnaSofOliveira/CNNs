@@ -165,9 +165,13 @@ Section2/cifar10/
 
 # HDF5files
 *.hdf5
+*.h5
 
 # PPM Files
 *.ppm
 
 # CSV Files
 *.csv
+
+# zip Files
+*.zip
