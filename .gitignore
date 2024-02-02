@@ -172,3 +172,6 @@ Section2/cifar10/
 
 # CSV Files
 *.csv
+
+# zip Files
+*.zip
