@@ -177,3 +177,6 @@ Section2/cifar10/
 
 # mp4 Files
 *.mp4
+
+# v2 Files
+*.v2
